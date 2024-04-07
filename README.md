@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hey! Soy Sergio Guzman | SGuzmanR
 
-<!--
-**SGuzmanR/SGuzmanR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const aboutMe = {
+   code: [Javascript, Typescript, HTML, CSS, Python, Java, "C#", "C++"],
+   technologies: {
+      frontEnd: {
+         js: ["React", "NextJS"],
+         css: ["Bootstrap", "Tailwind CSS"]
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node", "Express"],
+         csharp: ["Asp.net Core"],
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer"],
+   },
+   currentOccupation: ["Estudiante de Ingenieria de Sistemas y Computacion"],
+};
+```
