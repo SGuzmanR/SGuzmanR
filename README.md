@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio | SGuzmanR</h1>
-<h3 align="center">A passionate frontend/mobile developer from Colombia</h3>
+<h3 align="center">Freelance/Student trying to improve myself and learn more</h3>
 
 ```javascript
 const aboutMe = {
