@@ -1,8 +1,9 @@
-# Hey! Soy Sergio Guzman | SGuzmanR
+<h1 align="center">Hi 👋, I'm Sergio | SGuzmanR</h1>
+<h3 align="center">A passionate frontend/mobile developer from Colombia</h3>
 
 ```javascript
 const aboutMe = {
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, "C#", "C++"],
+   code: [HTML, CSS, Javascript, Typescript, Python, Java, CSharp, CPlusPlus],
    technologies: {
       frontEnd: {
          js: ["React", "NextJS"],
@@ -11,10 +12,12 @@ const aboutMe = {
       backEnd: {
          java: ["Spring"],
          js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
+         csharp: ["ASP.NET Core"],
       },
       databases: ["MongoDB", "mySQL", "SQLServer"],
+      mobiel: ["React Native"],
    },
-   currentOccupation: ["Estudiante de Ingenieria de Sistemas y Computacion"],
+   currentOccupation: ["Freelancer / Computer and Systems Engineering Student"],
+   challenge: "",
 };
 ```
