@@ -1,4 +1,4 @@
-# Hallo!, my name is Sergio Guzman 👋
+# Hallo!, My name is Sergio Guzman 👋
 
 ```javascript
 const SGuzmanR = {
@@ -41,5 +41,5 @@ const SGuzmanR = {
         "Improve Full-Stack JavaScript Knowledge",
         "Learn Advanced React Native Concepts",
     ]
-}
+};
 ```
