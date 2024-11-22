@@ -2,7 +2,8 @@
 
 ```javascript
 const SGuzmanR = {
-    code: ["TypeScript", "Javascript", "C#", "C++"],
+    main: { Full Stack Developer }
+    code: ["TypeScript", "Javascript", "C#", "C++", "Java"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
@@ -24,7 +25,6 @@ const SGuzmanR = {
         devOps: ["CloudFormation", "Serverless Framework"],
         databases: ["Relational", "NoSQL", "In-memory"],
     },
-    currentFocus: "Creating seamless, responsive, and highly interactive web applications by mastering full-stack development tools and ensuring seamless integration between front-end, back-end, and databases for a smooth user experience.",
     softSkills: [
         "Problem Solving",
         "Team Leadership",
