@@ -2,7 +2,7 @@
 
 ```javascript
 const SGuzmanR = {
-    main: { Full Stack Developer }
+    main: { "Full Stack Developer" }
     code: ["TypeScript", "Javascript", "C#", "C++", "Java"],
     technologies: {
         frontEnd: {
