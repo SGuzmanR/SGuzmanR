@@ -1,1 +1,1 @@
-[![SGuzmanR](https://i.postimg.cc/Vsq2Ccsj/SGuzmanR.png)](https://sguzmanr-portfolio.vercel.app/)
+[![SGuzmanR](https://i.postimg.cc/DZFPVRVT/SGuzmanR.png)](https://sguzmanr-portfolio.vercel.app/)
