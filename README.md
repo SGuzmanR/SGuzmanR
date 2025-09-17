@@ -1,1 +1,1 @@
-[![SGuzmanR](https://i.postimg.cc/DZFPVRVT/SGuzmanR.png)](https://sguzmanr-portfolio.vercel.app/)
+![SGuzmanR_cover](https://github.com/SGuzmanR/SGuzmanR/blob/main/SGuzmanR.png?raw=true)
